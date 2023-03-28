@@ -1,16 +1,17 @@
 # WeRateDogs Twitter Archive Analysis
-![header](./img/header.jpeg)
+<img src="./img/header.jpeg" alt="header" style="display:block; margin:auto;">
+
+Photo by [WeRateDogs®](https://twitter.com/dog_rates?s=20)
 
 ## Introduction
 [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs) is a Twitter account that rates people's dogs with a humorous comments about the dog. As this one here:
 
-![funny tweet](./img/dog.png)
+<img src="./img/dog.png" alt="Funny tweet" width="400" height="400" style="display:block; margin:auto;">
 
 This analysis explores a dataset containing WeRateDogs's Twitter archive covering the period from November 2015 to August 2017.
 
 ## Wrangle Report
 ### Dataset
-
 [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDog) is a Twitter account that rates people's dogs with a humorous comments about the dog. This analysis explores a dataset containing WeRateDogs's Twitter archive covering the period from November 2015 to August 2017.
 
 The data was spread between three sources:
